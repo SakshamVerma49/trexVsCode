@@ -1,1 +1,1 @@
-# trexVsCode
+# trex
